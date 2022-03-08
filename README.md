@@ -5,7 +5,6 @@ A 2D platformer game made with the [Python Arcade Library](https://api.arcade.ac
 Maps made using [Tiled](mapeditor.org) level editor
 
 
-Made for AS 91906 (Use complex programming techniques to develop a computer program), as part of WBHS Year 13 Digitial Technologies Programming
 
 ## Copyright/Attribution
 
