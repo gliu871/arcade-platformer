@@ -12,4 +12,4 @@ Maps made using [Tiled](mapeditor.org) level editor
 
 "Generic Platform Tiles" by surt licensed CC0: https://opengameart.org/content/generic-platformer-tiles
 
-"Superpowers assets characters" by MedicineStorm licensed CC0: https://opengameart.org/content/generic-platformer-tiles
+"Superpowers assets characters" by MedicineStorm licensed CC0: https://opengameart.org/content/superpowers-assets-characters
